@@ -6,6 +6,10 @@
       "external": false
     },
     {
+      "url": "/parcours",
+      "text": "Mon parcours"
+    },
+    {
       "text": "Contact",
       "url": "/contact",
       "external": false
