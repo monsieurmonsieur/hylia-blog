@@ -6,12 +6,12 @@
       "external": false
     },
     {
-      "url": "/mon-parcours",
+      "url": "/pages/mon-parcours/",
       "text": "Mon parcours"
     },
     {
       "text": "Réalisations",
-      "url": "/réalisations"
+      "url": "/pages/réalisations"
     },
     {
       "text": "Contact",
