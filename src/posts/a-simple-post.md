@@ -1,6 +1,6 @@
 ---
-title: A simple post
-date: '2019-06-18'
+title: Un post simple
+date: 2019-06-18
 tags:
   - demo-content
   - simple-post
